@@ -73,3 +73,13 @@
       background-color:   #f0bd01;
 
   }
+
+  footer{
+      background-color:#f0bd01;
+  }
+
+  footer span {
+      font-size: 1.8rem;
+      color: #31332e;
+      font-family: 'League Gothic';
+  }
