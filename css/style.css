@@ -76,10 +76,33 @@
 
   footer{
       background-color:#f0bd01;
+      padding-top: 2.5rem;
   }
 
   footer span {
       font-size: 1.8rem;
       color: #31332e;
       font-family: 'League Gothic';
+  }
+  footer p {
+      font-size:1.17rem;
+      font-family: 'lacuna_regularregular';
+      color: #31332e;
+      margin-top: 1rem;
+  }
+
+.social-icon{
+    color: #f0bd01;
+    height:1.875rem !important; ;
+    width: 1.875rem !important;
+    border-radius: 50%;
+    background-color: white;
+    padding-top: 0.25rem;
+    margin: 1rem !important;
+
+    /*background-color: white;
+    /* font-size: 10rem;*/
+}
+  footer i {
+      color:#f0bd01;
   }
