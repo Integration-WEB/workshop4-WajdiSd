@@ -48,7 +48,7 @@
 
 /* section 2 */
 
-.section2 {
+.section1 {
     height: 23.12rem;
     background-color: #3a0a1d;
     padding-top: 7.2rem;
@@ -71,7 +71,7 @@
     text-align: left;
     color: #3a0a1d;
 }
-.section3{
+.section2{
     background-color: #fafafa;
 }
 .bi-quote {
